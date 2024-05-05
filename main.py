@@ -5,8 +5,8 @@ from analysis.data_visualization import DataVisualization
 
 
 searches_result = [
-    "/jobs-data/",
-#    "/jobs-developer/",
+    "/jobs-data/", # result of search data positions
+    "/jobs-developer/", # ... developer positions
 ]
 
 if __name__ == "__main__":
